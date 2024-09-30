@@ -1,4 +1,4 @@
-**APEX BANK Python Application**
+**BANK Python Application**
 
 This is a simple Python console-based banking application where users can register an account, log in, and perform basic banking operations such as checking account balance, making deposits, and withdrawing funds. The program uses OOP (Object-Oriented Programming) concepts to manage different functionalities.
 
